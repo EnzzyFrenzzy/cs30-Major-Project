@@ -2,12 +2,21 @@
 
 ## Description
 
-Describe what I'll make
+I want to make a top down, 2-D shooter. I'd like it to be similar to
+Hotline Miami as in terms of gameplay. Instead of a story-esc mode, I'd
+rather make a more random level based game instead.
 
 ## Needs (Need to Have)
 
-What things do I need to have?
+- Character movement & Actions
+- Weapons (ranged & melee)
+- AI enemies (can use the same weapons the player uses)
+- Sounds
+- Clean gameplay feel, visuals, and loop.
+- Tutorial
 
 ## Wants (Nice to Have)
 
-What things do I want to have?
+- Music
+- Main Menu
+- Smooth transition of level to level
